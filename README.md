@@ -1,8 +1,7 @@
-## Hi there 👋 It's me Thoondimuthu
-
+<h1>Hi there 👋 It's me Thoondimuthu</h1>
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&center=true&vCenter=true&width=500&lines=Hi+there+👋+It's+me+Thoondimuthu!;Full-Stack+Developer;Creative+Tech+Educator;Building+Cool+Things+🚀" alt="Typing Animation" align="center" />
-<br/>
-Software Engineer @ Zoho Corporation
+
+
 <img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
 - 🔭 Here's my [portfolio](https://hareesh.web.app/)                                                 
 - 🌱 I’m currently learning and Teaching DSA and Integrating AI to my workflow
