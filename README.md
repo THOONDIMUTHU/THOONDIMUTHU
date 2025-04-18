@@ -41,7 +41,7 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=THOONDIMUTHU&theme=dark&no-frame=false&no-bg=true&margin-w=4)
 
-[![Thoondimuthu's LeetCode Stats](https://leetcard.jacoblin.cool/Thoondimuthu?theme=dark&font=Cabin&ext=heatmap)]
+![Thoondimuthu's LeetCode Stats](https://leetcard.jacoblin.cool/Thoondimuthu?theme=dark&font=Cabin&ext=heatmap)
 
 
 ### ✍️ Dev Quote of the Day
