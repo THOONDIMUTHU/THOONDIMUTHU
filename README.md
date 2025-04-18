@@ -26,11 +26,11 @@
 
 <img src="https://skillicons.dev/icons?i=git,github">
 
-###  💻 IDE and Tools I Use:
+###  🛠️ IDE and Tools I Use:
 
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> <img height="50" src="https://img.icons8.com/officel/480/null/java-eclipse.png"/> <img height="50" src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/> <img height="50" src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"/> <img height="50" src="https://skillicons.dev/icons?i=git,github"/>
 
-# 📊 GitHub Stats:
+## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=THOONDIMUTHU&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=THOONDIMUTHU&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=THOONDIMUTHU&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
@@ -38,10 +38,26 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=THOONDIMUTHU&theme=dark&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
+
+
+### ✍️ Dev Quote of the Day
+
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
+
+
+## 🐍 Snake Eating My Contribution
+
+<p align="center">
+  <picture >
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+  </picture>
+</p>
 ---
+
+
 [![](https://visitcount.itsvg.in/api?id=THOONDIMUTHU&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
