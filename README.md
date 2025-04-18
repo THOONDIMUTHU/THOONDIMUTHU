@@ -1,6 +1,7 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&center=true&vCenter=true&width=500&lines=Hi+there+👋+It's+me+Thoondimuthu!;Full-Stack+Developer;Creative+Tech+Educator;Building+Cool+Things+🚀" alt="Typing Animation" align="center">
 <img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
 
+- Hi there 👋 It's me Thoondimuthu R
 - 🔭 Here's my [portfolio](https://thoondimuthu.github.io/Portfolio/)                                                 
 - 🌱 I’m currently learning DSA and Oops.
 - 💬 Ask me about: `Bootstrap`, `JavaScript`, `Java`, `PostgreSQL`
@@ -55,7 +56,7 @@
     <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
   </picture>
 </p>
----
+
 
 
 [![](https://visitcount.itsvg.in/api?id=THOONDIMUTHU&icon=0&color=0)](https://visitcount.itsvg.in)
