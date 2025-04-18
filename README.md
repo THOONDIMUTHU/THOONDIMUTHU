@@ -19,7 +19,7 @@
 ###  💻 Database Systems:
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ###  💻 Version Control:
-
+<img src="https://skillicons.dev/icons?i=git,github" />
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=THOONDIMUTHU&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=THOONDIMUTHU&theme=dark&hide_border=false)<br/>
