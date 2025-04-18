@@ -19,7 +19,14 @@
 ###  💻 Database Systems:
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ###  💻 Version Control:
-<img src="https://skillicons.dev/icons?i=git,github" />
+<img src="https://skillicons.dev/icons?i=git,github">
+### IDE and Tools I Use:
+<img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> <img height="50" width="50" 
+<img height="50" src="https://img.icons8.com/officel/480/null/java-eclipse.png"/>
+<img height="50" src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
+<img height="50" src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img height="50" src="https://skillicons.dev/icons?i=git,github"/>
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=THOONDIMUTHU&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=THOONDIMUTHU&theme=dark&hide_border=false)<br/>
